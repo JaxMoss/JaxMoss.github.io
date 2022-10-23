@@ -69,7 +69,7 @@ font-weight: bold;
     }
 
 #header{
-    background-image: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('../img/Cambridge-Science-Festival.jpg');
+    background-image: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.6)), url('Cambridge-Science-Festival.jpg');
     height: 100vh;
     background-position: center;
     background-size: cover;
